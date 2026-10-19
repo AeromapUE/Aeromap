@@ -10,7 +10,12 @@ requires-python = ">=3.14"
 dependencies = [
     "image>=1.5.33",
     "mercantile>=1.2.1",
+    "pandas>=2.2.0",
     "pillow>=12.3.0",
+    "pyarrow>=15.0.0",
+    "pydantic>=2.6.0",
+    "pytest>=8.0.0",
+    "pytest-cov>=5.0.0",
     "requests>=2.34.2",
 ]
 
