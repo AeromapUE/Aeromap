@@ -12,3 +12,11 @@ wheels/
 # Datasets y datos locales
 data/
 *.json
+
+# Testing and coverage
+.coverage
+.pytest_cache/
+
+# Agent artifacts & tooling
+.agents/
+

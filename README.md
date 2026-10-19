@@ -293,8 +293,8 @@ aeromap/
   - [x] Definición de requisitos funcionales y no funcionales.
   - [x] Cronograma WBS/Gantt y planificación.
 - [ ] **Hito 2: ETL** `(08 nov - 23:59)`
-  - [ ] Validación de esquemas con Pydantic.
-  - [ ] Conversor geográfico WGS84 → Slippy Map Tiles.
+  - [x] Validación de esquemas con Pydantic.
+  - [x] Conversor geográfico WGS84 → Slippy Map Tiles.
   - [ ] Scraper concurrente de teselas satelitales y cosido de mosaicos 3 × 3.
 - [ ] **Hito 3: Check 1** `(16 nov - 23:59)`
   - [ ] Control de calidad del dataset multimodal resultante.
